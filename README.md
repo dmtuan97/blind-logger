@@ -1,4 +1,4 @@
-1. Copy Logger to your source
+1. Copy Logger from pre-install folder to your source
 2. Fill your_ip_address into Logger file
 3. npm install
 
